@@ -23,4 +23,4 @@ $ git push origin master
 #Conclusão
 
 Por enquanto ainda está simples fazer atualizações com poucos branches
-
+Feito um commit e salvo a versão 0.1.0
